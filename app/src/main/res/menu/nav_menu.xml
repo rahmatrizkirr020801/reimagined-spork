@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/profile"/>
+
+    <item
+        android:id="@+id/nav_notification"
+        android:title="Info"
+        android:icon="@drawable/notification"/>
+
+    <item
+        android:id="@+id/nav_rumah_makan"
+        android:title="Food"
+        android:icon="@drawable/fastfood"/>
+
+    <item
+        android:id="@+id/nav_lokasi"
+        android:title="Lokasi"
+        android:icon="@drawable/current_location"/>
+
+</menu>
